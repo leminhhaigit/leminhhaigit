@@ -12,7 +12,7 @@ I’m a software developer with experience in designing, developing, and maintai
 * 🔧 Enjoy refactoring legacy code and improving existing systems
 * 🤝 Open to collaborating on interesting and challenging projects
 * 📚 Continuously learning and keeping up with modern technologies
-* 📫 Reach me at **[haile48866@gmail.com](mailto:haile48866@gmail.com)**
+* 📫 Reach me at **[leminhhaic@gmail.com](mailto:leminhhaic@gmail.com)**
 
 ### 🛠️ What I Care About
 
